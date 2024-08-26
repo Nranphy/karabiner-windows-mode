@@ -4,6 +4,14 @@
 
 由于本文档仅用于个人整理信息，不妨也将[官网地址](https://karabiner-elements.pqrs.org/)记录在此。
 
+## 2024-08-26 载入现有规则
+
+如同该仓库 README.md 文档所言，直接打开下述地址，由karabiner自行完成配置即可。这里的仓库地址仍然是原仓库地址，保持所用数据一直为最新的仓库内容。
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/rux616/karabiner-windows-mode/main/json/windows_shortcuts.json
+```
+
 ## 2024-08-26 切换输入法规则
 
 当前并未了解规则的JSON语法，参考了[这篇大佬的博客](https://arminli.com/custom-karabiner-elements-shift/)完成了配置，将切换输入法方式由 `CONTROL`+`SAPCE` 更换为 `Shift` 单击切换。
